@@ -1,0 +1,7 @@
+{
+  "name": "creditui",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
